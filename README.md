@@ -1,5 +1,5 @@
 **dlcleaner** is a small script that keeps your Download directory clean.
-======
+
 Installing
 ======
 
@@ -11,7 +11,7 @@ Installing
     PATH=$PATH:$HOME/bin
 <br>
 <br>
-======
+
 Usage
 ======
 
