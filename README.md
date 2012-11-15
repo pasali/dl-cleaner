@@ -6,8 +6,10 @@ Installing
 * Create a bin folder in your home directory.
 * Move script to the bin folder.
 * Make it executable
+
         sudo chmod +x bin/[file_name]
 * Add this line to your **.bashrc**
+        
         PATH=$PATH:$HOME/bin
 <br>
 <br>
